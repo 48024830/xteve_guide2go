@@ -50,4 +50,4 @@ some small script lines cause i personally use tvheadend and get playlist for xt
 
 plex and/or emby direct epg update after guide2go update (no wait for scheduled tasks, trigger more often, ...)
 
-so, credits to the programmers, i just putted this together in a docker to fit my needs
+so, credits to the programmers, i just putted this together in a docker to fit my needs 
